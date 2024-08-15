@@ -1,0 +1,11 @@
+detectron
+data/npz/*
+data/videos/*
+data/output_videos/*
+data
+VideoPose3D
+venv
+.idea
+junk
+models
+OC_SORT
